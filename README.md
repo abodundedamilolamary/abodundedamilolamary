@@ -1,16 +1,27 @@
 ## Hi there 👋
+## I'm Damilola Abodunde
+ 
+## 🎯 Project Manager | AI Enthusiast | Remote Collaboration Expert
 
-<!--
-**abodundedamilolamary/abodundedamilolamary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a results-driven Project Manager with experience leading cross-functional teams across various industries including EdTech and fashion. 
+I specialize in end-to-end project delivery, stakeholder communication, and leveraging tools and processes that drive efficiency and results.
 
-Here are some ideas to get you started:
+## What I Do
+📋 Project Planning & Execution
+🤝 Cross-functional Team Collaboration
+⚡ Sprint Planning & Agile Methodology
+📊 Risk Management & Problem Solving
+🤖 AI in Project Management Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+🔗 Adeptbloc Website Revamp
+🔗 AI in Project Management — Excelerate Research
+
+## Tools & Skills
+Jira | Trello | Spreadsheets | PRD Documentation | Google Workspace | Microsoft Office | Sprint Planning
+
+## Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/damilola-abodunde-3469b6217
+📧 Email: abodundedamilola34@gmail.com
+🌍 Location: Nigeria
