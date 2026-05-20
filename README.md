@@ -9,13 +9,18 @@ I specialize in end-to-end project delivery, stakeholder communication, and leve
 
 ## What I Do
 📋 Project Planning & Execution
+
 🤝 Cross-functional Team Collaboration
+
 ⚡ Sprint Planning & Agile Methodology
+
 📊 Risk Management & Problem Solving
-🤖 AI in Project Management Research
+
+🤖 AI in Project Management Research.
 
 ## Featured Projects
-🔗 Adeptbloc Website Revamp
+🔗 Adeptbloc Website Revamp - https://github.com/abodundedamilolamary/Adeptbloc-Website-Revamp-
+
 🔗 AI in Project Management/Excelerate Research - https://github.com/abodundedamilolamary/AI-in-Project-Management---Research
 
 ## Tools & Skills
