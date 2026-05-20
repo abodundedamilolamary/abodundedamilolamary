@@ -16,7 +16,7 @@ I specialize in end-to-end project delivery, stakeholder communication, and leve
 
 ## Featured Projects
 🔗 Adeptbloc Website Revamp
-🔗 AI in Project Management — Excelerate Research
+🔗 AI in Project Management/Excelerate Research - https://github.com/abodundedamilolamary/AI-in-Project-Management---Research
 
 ## Tools & Skills
 Jira | Trello | Spreadsheets | PRD Documentation | Google Workspace | Microsoft Office | Sprint Planning
